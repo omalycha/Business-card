@@ -1,0 +1,33 @@
+body{
+    margin: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.omalycha{
+    width: 150px;
+    border-radius: 50px;
+    
+}
+
+.card{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    color: #615f68;
+    background: gainsboro;
+    border-bottom: 6px solid gray;
+    border-radius: 30px;
+
+    
+}
+
+.border-blue{
+    border: 1px dotted blue;
+  
+}
+
+
+
